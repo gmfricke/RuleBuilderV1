@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<head>
+	<link rel="stylesheet" href="../basestyle.css" type="text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+State
+</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1> State </h1>
+
+<br>
+
+<p>
+A state is an attribute of a molecular <a href="./component.html" style="text-decoration:none"> component</a>, for example 
+attributes such as non-covalent ligation, conformation or covalent modification might be used to describe possible variations 
+of a component.  Each of these attributes comprises a single state and may influence the 
+<a href="./reactionrate.html" style="text-decoration:none"> rate of a reaction</a>.  Components may have multiple states as well. 
+</p>
+
+<br>
+
+<! --
+The possible states for each component are implicitly indexed with integer values ranging 
+from 0 for the first state to n - 1 for the final state.  Component/state combinations 
+may be associated with descriptive names within a BioNetGen input file comment line, but are not 
+used to generate the network.  Additionally, the &#8727 symbol within an input file serves as a 
+wildcard value for a component's state indicating modeling of all possible states.       
+-- >
+
+<p>
+The user assigns states two different ways.  Dragging a molecule over to the Molecule Types Palette
+will trigger a prompt to set node states.  States may be continue to be added until the Done option
+is selected.  Additionally a molecule already present in the Molecule Types Palette may be edited directly
+to add, modify or delete states as needed.  Again, once the use is satisfied, the Done option should
+be selected.  States may be set for each node of a molecule. 
+</p>
+
+<br>
+
+<p> 
+A molecule with at least one state is valid as indicated in the Molecule Types Palette with a green outline.  
+Unfinished molecules with no defined states retain their red color until the minimum of one state has been set.
+</p>
+
+</body>
+</HTML>

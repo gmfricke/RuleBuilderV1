@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+
+	<mapID target="introduction.introduction" url="bnghelp/Introduction/introduction.html" />
+	<mapID target="introduction.features" url="bnghelp/Introduction/features.html" />
+	<mapID target="introduction.modelspecification" url="bnghelp/Introduction/modelspecification.html" />
+	<mapID target="introduction.usagescenarios" url="bnghelp/Introduction/usagescenarios.html" />
+
+	<mapID target="aboutbionetgen.aboutbionetgen" url="bnghelp/AboutBioNetGen/aboutbionetgen.html" />
+	<mapID target="aboutbionetgen.authors" url="bnghelp/AboutBioNetGen/Authors/authors.html" />
+	<mapID target="aboutbionetgen.authors.jamesfaeder" url="bnghelp/AboutBioNetGen/Authors/jamesfaeder.html" />
+	<mapID target="aboutbionetgen.authors.leighfanning" url="bnghelp/AboutBioNetGen/Authors/leighfanning.html" />
+	<mapID target="aboutbionetgen.authors.matthewfricke" url="bnghelp/AboutBioNetGen/Authors/matthewfricke.html" />
+	<mapID target="aboutbionetgen.authors.michaelblinov" url="bnghelp/AboutBioNetGen/Authors/michaelblinov.html" />
+	<mapID target="aboutbionetgen.authors.williamhlavacek" url="bnghelp/AboutBioNetGen/Authors/williamhlavacek.html" />
+	<mapID target="aboutbionetgen.bugreports.bugreports" url="bnghelp/AboutBioNetGen/BugReports/bugreports.html" />
+	<mapID target="aboutbionetgen.bugreports.linuxbugs" url="bnghelp/AboutBioNetGen/linuxbugs.html" />
+	<mapID target="aboutbionetgen.bugreports.macbugs" url="bnghelp/AboutBioNetGen/macbugs.html" />
+	<mapID target="aboutbionetgen.bugreports.windowsbugs" url="bnghelp/AboutBioNetGen/windowsbugs.html" />
+	<mapID target="aboutbionetgen.references.references" url="bnghelp/AboutBioNetGen/References/references.html" />
+	<mapID target="aboutbionetgen.release.release" url="bnghelp/AboutBioNetGen/Release/release.html" />
+
+	<mapID target="modeling.modeling" url="bnghelp/Modeling/modeling.html" />
+
+	<mapID target="modeling.gettingstarted.gettingstarted" url="bnghelp/Modeling/GettingStarted/gettingstarted.html" />
+	<mapID target="modeling.gettingstarted.bionetgenusestages" url="bnghelp/Modeling/GettingStarted/bionetgenusestages.html" />
+	<mapID target="modeling.gettingstarted.creatingmoleculetypes" url="bnghelp/Modeling/GettingStarted/creatingmoleculetypes.html" />
+	<mapID target="modeling.gettingstarted.creatingreactionrules" url="bnghelp/Modeling/GettingStarted/creatingreactionrules.html" />
+	<mapID target="modeling.gettingstarted.execsim" url="bnghelp/Modeling/GettingStarted/execsim.html" />
+	<mapID target="modeling.gettingstarted.savebnglfile" url="bnghelp/Modeling/GettingStarted/savebnglfile.html" />
+	<mapID target="modeling.gettingstarted.setsimulationparams" url="bnghelp/Modeling/GettingStarted/setsimulationparams.html" />
+	<mapID target="modeling.gettingstarted.specifyingobservables" url="bnghelp/Modeling/GettingStarted/specifyingobservables.html" />
+	<mapID target="modeling.gettingstarted.specifyingspecies" url="bnghelp/Modeling/GettingStarted/specifyingspecies.html" />
+	<mapID target="modeling.gettingstarted.specifymodel" url="bnghelp/Modeling/GettingStarted/specifymodel.html" />
+	<mapID target="modeling.gettingstarted.viewsimresults" url="bnghelp/Modeling/OutputOptions/outputfileoptions.html" />
+
+	<mapID target="modeling.guidedexamples.toyexample" url="bnghelp/Modeling/GuidedExamples/toyexample.html" />
+	<mapID target="modeling.guidedexamples.toymodelstages" url="bnghelp/Modeling/GuidedExamples/toymodelstages.html" />
+	<mapID target="modeling.guidedexamples.createmoleculetemplates" url="bnghelp/Modeling/GuidedExamples/createmoleculetemplates.html" />
+	<mapID target="modeling.guidedexamples.createspecies" url="bnghelp/Modeling/GuidedExamples/createspecies.html" />
+	<mapID target="modeling.guidedexamples.createreactionrules" url="bnghelp/Modeling/GuidedExamples/createreactionrules.html" />
+
+	<mapID target="modeling.workingwithbngfiles.inputfileoptions" url="bnghelp/Modeling/WorkingWithBNGFiles/inputfileoptions.html" />
+
+	<mapID target="modeling.outputoptions.outputfileoptions" url="bnghelp/Modeling/OutputOptions/outputfileoptions.html" />
+
+	<mapID target="modeling.softwarecomponents.addcomponentmode" url="bnghelp/Modeling/SoftwareComponents/addcomponentmode.html" />
+	<mapID target="modeling.softwarecomponents.addcontainermode" url="bnghelp/Modeling/SoftwareComponents/addcontainermode.html" />
+	<mapID target="modeling.softwarecomponents.addedgemode" url="bnghelp/Modeling/SoftwareComponents/addedgemode.html" />
+	<mapID target="modeling.softwarecomponents.addforwardproductionoperatormode" url="bnghelp/Modeling/SoftwareComponents/addforwardproductionoperatormode.html" />
+	<mapID target="modeling.softwarecomponents.addforwardreverseproductionoperatormode" url="bnghelp/Modeling/SoftwareComponents/addforwardreverseproductionoperatormode.html" />
+	<mapID target="modeling.softwarecomponents.addplusoperatormode" url="bnghelp/Modeling/SoftwareComponents/addplusoperatormode.html" />
+	<mapID target="modeling.softwarecomponents.container" url="bnghelp/Modeling/SoftwareComponents/container.html" />
+	<mapID target="modeling.softwarecomponents.cutbutton" url="bnghelp/Modeling/SoftwareComponents/cutbutton.html" />
+	<mapID target="modeling.softwarecomponents.duplicatebutton" url="bnghelp/Modeling/SoftwareComponents/duplicatebutton.html" />
+	<mapID target="modeling.softwarecomponents.editbuttons" url="bnghelp/Modeling/SoftwareComponents/editbuttons.html" />
+	<mapID target="modeling.softwarecomponents.editorwindow" url="bnghelp/Modeling/SoftwareComponents/editorwindow.html" />
+	<mapID target="modeling.softwarecomponents.editorwindowmodes" url="bnghelp/Modeling/SoftwareComponents/editorwindowmodes.html" />
+	<mapID target="modeling.softwarecomponents.modelparameters" url="bnghelp/Modeling/SoftwareComponents/modelparameters.html" />
+	<mapID target="modeling.softwarecomponents.moleculebuildingbuttons" url="bnghelp/Modeling/SoftwareComponents/moleculebuildingbuttons.html" />
+	<mapID target="modeling.softwarecomponents.moleculepalette" url="bnghelp/Modeling/SoftwareComponents/moleculepalette.html" />
+	<mapID target="modeling.softwarecomponents.objectmanipulationmode" url="bnghelp/Modeling/SoftwareComponents/objectmanipulationmode.html" />
+	<mapID target="modeling.softwarecomponents.observablespalette" url="bnghelp/Modeling/SoftwareComponents/observablespalette.html" />
+	<mapID target="modeling.softwarecomponents.palettewindows" url="bnghelp/Modeling/SoftwareComponents/palettewindows.html" />
+	<mapID target="modeling.softwarecomponents.pastebutton" url="bnghelp/Modeling/SoftwareComponents/pastebutton.html" />
+	<mapID target="modeling.softwarecomponents.reactionrulebuildingbuttons" url="bnghelp/Modeling/SoftwareComponents/reactionrulebuildingbuttons.html" />
+	<mapID target="modeling.softwarecomponents.reactionrulepalette" url="bnghelp/Modeling/SoftwareComponents/reactionrulepalette.html" />
+	<mapID target="modeling.softwarecomponents.redobutton" url="bnghelp/Modeling/SoftwareComponents/redobutton.html" />
+	<mapID target="modeling.softwarecomponents.simulationpalette" url="bnghelp/Modeling/SoftwareComponents/simulationpalette.html" />
+	<mapID target="modeling.softwarecomponents.softwarecomponents" url="bnghelp/Modeling/SoftwareComponents/softwarecomponents.html" />
+	<mapID target="modeling.softwarecomponents.speciespalette" url="bnghelp/Modeling/SoftwareComponents/speciespalette.html" />
+	<mapID target="modeling.softwarecomponents.summarywindows" url="bnghelp/Modeling/SoftwareComponents/summarywindows.html" />
+	<mapID target="modeling.softwarecomponents.trashcanbutton" url="bnghelp/Modeling/SoftwareComponents/trashcanbutton.html" />
+	<mapID target="modeling.softwarecomponents.undobutton" url="bnghelp/Modeling/SoftwareComponents/undobutton.html" />
+	<mapID target="modeling.softwarecomponents.zoomcontrols" url="bnghelp/Modeling/SoftwareComponents/zoomcontrols.html" />
+
+	<mapID target="terminology.terminology" url="bnghelp/Terminology/terminology.html" />
+	<mapID target="terminology.combinatorialcomplexity" url="bnghelp/Terminology/combinatorialcomplexity.html" />
+	<mapID target="terminology.complexadaptivesystem" url="bnghelp/Terminology/complexadaptivesystem.html" />
+	<mapID target="terminology.component" url="bnghelp/Terminology/component.html" />
+	<mapID target="terminology.edge" url="bnghelp/Terminology/edge.html" />
+	<mapID target="terminology.emergentbehavior" url="bnghelp/Terminology/emergentbehavior.html" />
+	<mapID target="terminology.grace" url="bnghelp/Terminology/grace.html" />
+	<mapID target="terminology.graphicalmodeling" url="bnghelp/Terminology/graphicalmodeling.html" />
+	<mapID target="terminology.irreversiblereaction" url="bnghelp/Terminology/irreversiblereaction.html" />
+	<mapID target="terminology.match" url="bnghelp/Terminology/match.html" />
+	<mapID target="terminology.molecule" url="bnghelp/Terminology/molecule.html" />
+	<mapID target="terminology.multiplicity" url="bnghelp/Terminology/multiplicity.html" />
+	<mapID target="terminology.observable" url="bnghelp/Terminology/observable.html" />
+	<mapID target="terminology.pattern" url="bnghelp/Terminology/pattern.html" />
+	<mapID target="terminology.reactionrate" url="bnghelp/Terminology/reactionrate.html" />
+	<mapID target="terminology.reactionrule" url="bnghelp/Terminology/reactionrule.html" />
+	<mapID target="terminology.reversiblereaction" url="bnghelp/Terminology/reversiblereaction.html" />
+	<mapID target="terminology.signaltransduction" url="bnghelp/Terminology/signaltransduction.html" />
+	<mapID target="terminology.species" url="bnghelp/Terminology/species.html" />
+	<mapID target="terminology.state" url="bnghelp/Terminology/state.html" />
+	<mapID target="terminology.symmetry" url="bnghelp/Terminology/symmetry.html" />
+	<mapID target="terminology.systemsbiologymarkuplanguage" url="bnghelp/Terminology/systemsbiologymarkuplanguage.html" />
+	<mapID target="terminology.wildcard" url="bnghelp/Terminology/wildcard.html" />
+
+	<mapID target="orangepointrighttriangle" url="images/orange_point_right_triangle.jpg" />
+	<mapID target="orangepointdowntriangle" url="images/orange_point_down_triangle.jpg" />
+	<mapID target="greensinglepage" url="images/singlegreenpage.jpg" />
+	<mapID target="greenmultipage" url="images/multiplegreenpages.jpg" />
+	<mapID target="oneredtriangle" url="images/OneRedTriangle.jpg" />
+	<mapID target="tworedtriangles" url="images/TwoRedTriangles.jpg" />
+	<mapID target="redrightarrow" url="images/RedRightArrow.jpg" />
+	<mapID target="reddiamond" url="images/RedDiamond.jpg" />
+	<mapID target="lanllogo" url="images/lalogo.gif" />
+
+</map>

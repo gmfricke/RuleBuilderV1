@@ -1,0 +1,178 @@
+<book>
+-
+	<bookinfo>
+<title>BioNetGen - Biological Network Generator</title>
+</bookinfo>
+-
+	<chapter>
+<title>Quick Start</title>
+<para>Lets get started.</para>
+-
+	<para>
+THIS IS A TEST laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</para>
+-
+	<para>
+involved BioNetGen, this chapter will get you off to a quick start!
+</para>
+-
+	<para>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+</para>
+</chapter>
+-
+	<chapter>
+<title>Introduction</title>
+-
+	<para>
+BioNetGen is an application that allows you to create cellular reaction
+network models.
+</para>
+</chapter>
+-
+	<chapter>
+<title>Bug List</title>
+<para>There were no known bugs at the release of this version of BioNetGen.</para>
+-
+	<para>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+</para>
+-
+	<para>
+Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+</para>
+-
+	<para>
+Lets learn about some 
+<link linkend="concepts">Concepts</link>
+ used in BioNetGen
+</para>
+</chapter>
+-
+	<chapter id="concepts">
+<title>Concepts</title>
+-
+	<para>
+Let's look at the basic concepts involved with BioNetGen.
+</para>
+</chapter>
+-
+	<chapter>
+<title>How Do I...</title>
+-
+	<section>
+<title>New File</title>
+-
+	<para>
+This example Chapter is going to be extra long, so we can see what
+      different sections look like.
+</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+<para>p</para>
+-
+	<section id="new_foo_section">
+<title id="new_foo_id">New Foo</title>
+-
+	<para>
+New containers can be created by clicking on the add container button on the Editor window's toolbar.
+</para>
+-
+	<para>
+New components can be created by clicking on the add component button on the Editor window's toolbar.
+
+</para>
+</section>
+-
+	<section id="new_bar_section">
+<title id="new_baz_id" name="new_baz">New Bar</title>
+-
+	<para>
+Edges are easily added. In the editor window press the add edge button on the toolbar. Pressing the add edge button places BioNetGen into add edge mode.
+              Click on a the first component you would like to link with an edge then click on the second component. An edge will be created between the two comonents. Multiple edges may be added by repeating this process.
+</para>
+-
+	<tip>
+Keep in mind that if a component forming the endpoint of an edge is deleted the edge with automatically be deleted as well. Edges may be deleted just like any other element in the editor window by pressing the erase button on the toolbar while the edge is highlighted.
+</tip>
+-
+	<para>
+Another paragraph just to explore the underlying XML help document format.
+
+</para>
+</section>
+-
+	<section id="Species">
+<title id="new_baz_title">Species</title>
+-
+	<para>
+What is a species, how are species created and manipulated.
+</para>
+</section>
+-
+	<para>
+Okis tas mol nuf me nuf xu nu Xanika nu sefem xos nex. Otey pi xamus titim noy xu okis. Yokes xu xoxox ney pi ko tey sasuy fe Elas fe Loma yel mi. Pul pi sines xu nu mifef noy nu fako. Tone las xu titim. Fele xu uni lal ki sitef nof. Fake xu uni lal ki suf alix sal. Nu suf ayes nu axu noy mi ney utex pi ko pelol xomay pi suf alix yal xu sitef. Po fetim ki efel nu neno fele ney ixi nu Mas ney lokas sosuy mi xu fosuy. Foxox ki tey kux fimam nuf xu nu fimam ikay nu ney ofus.
+</para>
+-
+	<para>
+Okis tas mol nuf me nuf xu nu Xanika nu sefem xos nex. Otey pi xamus titim noy xu okis. Yokes xu xoxox ney pi ko tey sasuy fe Elas fe Loma yel mi. Pul pi sines xu nu mifef noy nu fako. Tone las xu titim. Fele xu uni lal ki sitef nof. Fake xu uni lal ki suf alix sal. Nu suf ayes nu axu noy mi ney utex pi ko pelol xomay pi suf alix yal xu sitef. Po fetim ki efel nu neno fele ney ixi nu Mas ney lokas sosuy mi xu fosuy. Foxox ki tey kux fimam nuf xu nu fimam ikay nu ney ofus.
+</para>
+</section>
+-
+	<section>
+<title>Exporting</title>
+-
+	<para>
+You can Export BioNetGen models to XML
+-
+	<indexterm>
+<secondary>export</secondary>
+ is to 
+      
+<primary>Import</primary>
+</indexterm>
+ this data into BioSpice.
+</para>
+</section>
+-
+	<section>
+<title>Copying</title>
+-
+	<para>
+Okis tas mol nuf me nuf xu nu Xanika nu sefem xos nex. Otey pi xamus titim noy xu okis. Yokes xu xoxox ney pi ko tey sasuy fe Elas fe Loma yel mi. Pul pi sines xu nu mifef noy nu fako. Tone las xu titim. Fele xu uni lal ki sitef nof. Fake xu uni lal ki suf alix sal. Nu suf ayes nu axu noy mi ney utex pi ko pelol xomay pi suf alix yal xu sitef. Po fetim ki efel nu neno fele ney ixi nu Mas ney lokas sosuy mi xu fosuy. Foxox ki tey kux fimam nuf xu nu fimam ikay nu ney ofus.
+</para>
+</section>
+-
+	<section>
+<title>Importing</title>
+-
+	<para>
+-
+	<indexterm>
+<primary>Importing</primary>
+  an 
+<secondary>alien</secondary>
+ file format 
+</indexterm>
+
+</para>
+-
+	<para>
+Okis tas mol nuf me nuf xu nu Xanika nu sefem xos nex. Otey pi xamus titim noy xu okis. Yokes xu xoxox ney pi ko tey sasuy fe Elas fe Loma yel mi. Pul pi sines xu nu mifef noy nu fako. Tone las xu titim. Fele xu uni lal ki sitef nof. Fake xu uni lal ki suf alix sal. Nu suf ayes nu axu noy mi ney utex pi ko pelol xomay pi suf alix yal xu sitef. Po fetim ki efel nu neno fele ney ixi nu Mas ney lokas sosuy mi xu fosuy. Foxox ki tey kux fimam nuf xu nu fimam ikay nu ney ofus.
+</para>
+-
+	<para>
+Okis tas mol nuf me nuf xu nu Xanika nu sefem xos nex. Otey pi xamus titim noy xu okis. Yokes xu xoxox ney pi ko tey sasuy fe Elas fe Loma yel mi. Pul pi sines xu nu mifef noy nu fako. Tone las xu titim. Fele xu uni lal ki sitef nof. Fake xu uni lal ki suf alix sal. Nu suf ayes nu axu noy mi ney utex pi ko pelol xomay pi suf alix yal xu sitef. Po fetim ki efel nu neno fele ney ixi nu Mas ney lokas sosuy mi xu fosuy. Foxox ki tey kux fimam nuf xu nu fimam ikay nu ney ofus.
+</para>
+</section>
+</chapter>
+</book>

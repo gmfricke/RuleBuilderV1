@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+<toc version="1.0">
+   <tocitem target="d0e1" text="BioNetGen - Biological Network Generator">
+      <tocitem target="d0e7" text="Quick Start"/>
+      <tocitem target="d0e22" text="Introduction"/>
+      <tocitem target="d0e29" text="Bug List"/>
+      <tocitem target="concepts" text="Concepts"/>
+      <tocitem target="d0e54" text="How Do I...">
+         <tocitem target="d0e58" text="New File">
+            <tocitem target="new_foo_section" text="New Foo"/>
+            <tocitem target="new_bar_section" text="New Bar"/>
+            <tocitem target="Species" text="Species"/>
+         </tocitem>
+         <tocitem target="d0e125" text="Exporting"/>
+         <tocitem target="d0e139" text="Copying"/>
+         <tocitem target="d0e146" text="Importing"/>
+      </tocitem>
+   </tocitem>
+</toc>

@@ -1,0 +1,64 @@
+/Association.class/1.1/Fri Dec 16 08:54:13 2005/-kb/
+/Atom.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/AtomContainer.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/AtomEnumeration.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/AtomParity.class/1.1/Fri Dec 16 08:54:13 2005/-kb/
+/AtomType.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/BioPolymer.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/Bond.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/CDKConstants.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/ChemFile.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/ChemModel.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/ChemObject.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/ChemObjectListener.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/ChemSequence.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/Crystal.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/ElectronContainer.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/Element.class/1.1/Fri Dec 16 08:54:17 2005/-kb/
+/EnzymeResidueLocator.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/Fragment.class/1.1/Fri Dec 16 08:54:13 2005/-kb/
+/Isotope.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/LonePair.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/Mapping.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/Molecule.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/Monomer.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/PhysicalConstants.class/1.1/Fri Dec 16 08:54:13 2005/-kb/
+/Polymer.class/1.1/Fri Dec 16 08:54:16 2005/-kb/
+/PseudoAtom.class/1.1/Fri Dec 16 08:54:17 2005/-kb/
+/Reaction.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+/Ring.class/1.1/Fri Dec 16 08:54:15 2005/-kb/
+/RingSet.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/SetOfAtomContainers.class/1.1/Fri Dec 16 08:54:17 2005/-kb/
+/SetOfMolecules.class/1.1/Fri Dec 16 08:54:13 2005/-kb/
+/SetOfReactions.class/1.1/Fri Dec 16 08:54:11 2005/-kb/
+/SingleElectron.class/1.1/Fri Dec 16 08:54:12 2005/-kb/
+/Vibration.class/1.1/Fri Dec 16 08:54:14 2005/-kb/
+D/aromaticity////
+D/atomtype////
+D/charges////
+D/config////
+D/controller////
+D/database////
+D/dict////
+D/event////
+D/exception////
+D/fingerprint////
+D/geometry////
+D/graph////
+D/index////
+D/internet////
+D/io////
+D/isomorphism////
+D/iupac////
+D/layout////
+D/libio////
+D/math////
+D/qsar////
+D/reaction////
+D/renderer////
+D/ringsearch////
+D/smiles////
+D/structgen////
+D/templates////
+D/tools////
+D/validate////

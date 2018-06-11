@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<head>
+	<link rel="stylesheet" href="../../basestyle.css" type="text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+Create Molecule Types
+</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1> Create Molecule Types </h1>
+
+<br>
+
+<p align=left>
+Each molecule type is created individually on the Editor Window using these modes(buttons):
+<ul>
+<li> unbound component <img src="../../../images/unbound_component.gif" width=15 height=15 border=1> </li>
+<li> container component <img src="../../../images/container.gif" width=15 height=15 border=1>  </li>
+<li> edge component <img src="../../../images/add_edge.gif" width=15 height=15 border=1>  </li>
+<li> object manipulation mode <img src="../../../images/ObjectManipulationModeButton.jpg" width=15 height=15 border=1>  </li>
+<li> cut mode <img src="../../../images/cut.gif" width=15 height=15 border=1>  </li>
+</ul>
+</p>
+
+<br>
+
+<p> In particular, to create R(l,r,a) a tri-component molecule with no set states, each internal component is first drawn 
+using the unbound component button.  Components in focus are blue in color, while the others shift to black.  Next, by 
+changing to object manipulation mode, each component may be separately selected to bring up three options including 
+<B> Rename</B>, <B> Delete </B> and <B> Binding</B>.  For R(l,r,a), the components are renamed as l, r, and a.  
+</p>
+
+<br>
+
+<img src="../../../images/EditorWindowRlra.jpg" width=280 height=320 align=center border=1>
+
+<br>
+
+<p> Using the Container button allows a container boundary to be dragged around the three components.  It may be easier 
+to get the desired shape by first creating the container on a blank part of the Editor Window workspace and then reshaping 
+and dragging on top of the components while in object manipulation mode.  The container can then be selected to bring up 
+its options including <B> Rename</B>, <B> Delete </B> and <B> Create Molecule Type</B>.  The container is renamed R and 
+then registered as a molecular pattern using these options.  Edges between components can be optionally added at this point, 
+but are not part of this example.  Component state status will be automatically queried with Create Molecule Type to allow the 
+addition of one or more states.   Once finished the <B> Done </B> button will add these states to the molecule and then register 
+it as a valid type.  For R(l,r,a) there are no set states, hence the selection of <B> Done </B> is simply chosen first off for 
+each component that is presented.   
+</p>
+
+<br>
+
+<img src="../../../images/MoleculeTypesPalette.jpg" width=160 height=320 border=1 align=left>
+
+<br>
+<p>
+The molecular pattern defined by R(l,r,a) will then appear in the Molecule Template Palette.  The remaining molecule
+types are created the same way.  Between each new molecule that is created and registered, it may be helpful to clear the 
+Editor Window workspace by first selecting the old molecule and then deleting with the cut button.  Once a molecule type has 
+been added to the Molecule Types Palette, its overall color will shift from red to green indicating the validity of the 
+pattern.  As before, while working on the object as a whole, the blue focus color will override its previous color.
+</p>
+
+</body>
+</HTML>

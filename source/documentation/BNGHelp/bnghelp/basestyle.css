@@ -1,0 +1,111 @@
+/* 	initiated basestyle.css 
+*	mlf 9 sep 05
+*
+*       removed "font-family: SansSerif, Arial, Helvetica, sans-serif;" from body block
+*	collected all fonts for all elements into one assignment area
+*	mlf 31 oct 05
+*
+*	redrightarrowmark custom bullet added and finalized
+*	mlf 9 nov 05
+*
+*	hs not displaying custom bullet; using circle for now
+*	mlf 10 nov 05
+* 
+*/
+
+body  {font-size: 12pt;
+	margin-left: 10;
+	margin-right: 5;
+	color: Black;
+	background-color: "#FFFFFF"}
+
+/* h1,h2,h3,h4,h5,p,ul,body {font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;} */
+/* h1,h2,h3,h4,h5,p,ul,body {font-family: Geneva, Arial, Helvetica, Sans-Serif, Verdana;} */
+/* h1,h2,h3,h4,h5,p,ul,body {font-family: Arial, Helvetica, Sans-Serif, Verdana, Geneva;} */
+/* h1,h2,h3,h4,h5,p,ul,body {font-family: Helvetica, Sans-Serif, Verdana, Geneva, Arial;} */
+h1,h2,h3,h4,h5,p,ul,body {font-family: Sans-Serif, Verdana, Geneva, Arial, Helvetica;} 
+
+p  {font-size: 12pt;
+     margin-top: 5;
+     margin-bottom: 5}
+
+h1 { font-size: 18pt;
+     font-weight: bold;
+     margin-right: 65;
+     margin-top: 0;
+     margin-bottom: 10}
+
+h2 { font-size: 16pt;
+     font-style: italic;
+     font-weight: bold;
+     margin-top: 20;
+     margin-bottom: 10}
+
+h3 { font-size: 14pt;
+     font-weight: bold;
+     margin-top: 10;
+     margin-bottom: 5}
+
+h4 { font-size: 12pt;
+     font-weight: bold;
+     margin-top: 10;
+     margin-bottom: 5}
+
+ol {margin-top: 5;
+     margin-bottom: 0;
+     margin-left: 30}
+
+li {margin-top: 0;
+    margin-bottom: 5}
+        
+li p{margin-top: 5;
+        margin-bottom: 0}
+
+ul {margin-top: 5;
+    margin-bottom: 0;
+    margin-left: 30}
+        
+table {border-style: none;
+       border-color: silver;
+       margin-top: 5;
+       margin-bottom: 5}
+
+td {font-size: 12pt;
+    border-color: silver;
+    padding-left: 1;
+    padding-right: 1;
+    padding-top: 1;
+    padding-bottom: 1}
+
+th {border-style: none;
+    border-color: silver;
+    padding-left: 1;
+    padding-right: 1;
+    padding-top: 1;
+    padding-bottom: 1}
+
+small {font-size: x-small}
+
+li {list-style-image: url(../images/RedRightArrow.jpg); list-style-position: outside;}
+li {list-style: circle}
+
+#redrightarrowmark li 
+{
+margin-left: -80px;
+margin-bottom: -308;
+margin-top: 0;
+padding-left: 32px;
+padding-top: 5px;
+list-style: none; 
+height: 50%;
+background-image: url('../images/RedRightArrow.jpg'); 
+background-repeat: no-repeat;
+}
+
+#listitemnone li
+{
+list-style: none; 
+margin-left: -80px;
+padding-left: 32px;
+padding-top: 5px;
+}

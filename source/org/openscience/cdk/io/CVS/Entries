@@ -1,0 +1,55 @@
+/CDKSourceCodeWriter.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/CDXReader.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/CIFReader.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/CMLReader.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/CMLWriter.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/ChemObjectIO.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+/ChemObjectReader.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+/ChemObjectWriter.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/ChemicalRSSReader.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/CrystClustReader.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/CrystClustWriter.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+/DefaultChemObjectReader.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/DefaultChemObjectWriter.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/GamessReader.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/Gaussian03Reader.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/Gaussian98Reader.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+/GhemicalMMReader.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/HINReader.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/HINWriter.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/IChIReader.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/INChIPlainTextReader.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/INChIReader.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/LogWriter.class/1.1/Fri Dec 16 08:54:41 2005/-kb/
+/MACiEReader.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+/MDLRXNReader.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/MDLRXNV3000Reader.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/MDLRXNWriter.class/1.1/Fri Dec 16 08:54:41 2005/-kb/
+/MDLReader.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/MDLV3000Reader.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/MDLWriter.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/Mol2Reader.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/PDBReader.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/PDBWriter.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/PMPReader.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/ReaderEvent.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/ReaderFactory.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/SMILESReader.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/SMILESWriter.class/1.1/Fri Dec 16 08:54:40 2005/-kb/
+/SVGWriter$1.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/SVGWriter.class/1.1/Fri Dec 16 08:54:39 2005/-kb/
+/ShelXReader.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/ShelXWriter.class/1.1/Fri Dec 16 08:54:35 2005/-kb/
+/VASPReader.class/1.1/Fri Dec 16 08:54:38 2005/-kb/
+/XYZReader.class/1.1/Fri Dec 16 08:54:36 2005/-kb/
+/XYZWriter.class/1.1/Fri Dec 16 08:54:34 2005/-kb/
+/ZMatrixReader.class/1.1/Fri Dec 16 08:54:37 2005/-kb/
+D/chemrss////
+D/cml////
+D/formats////
+D/ichi////
+D/inchi////
+D/iterator////
+D/listener////
+D/program////
+D/setting////

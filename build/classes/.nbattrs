@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="And.java">
+        <attr name="class_dependency_LogicalOperator" stringvalue="And"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="And"/>
+    </fileobject>
+    <fileobject name="BNGMLFormatException.java">
+        <attr name="class_dependency_java.lang.Exception" stringvalue="BNGMLFormatException"/>
+    </fileobject>
+    <fileobject name="BioComponent.java">
+        <attr name="class_dependency_Connectable" stringvalue="BioComponent"/>
+        <attr name="class_dependency_Mappable" stringvalue="BioComponent"/>
+        <attr name="class_dependency_Widget" stringvalue="BioComponent"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="BioComponent"/>
+        <attr name="class_dependency_java.lang.Comparable" stringvalue="BioComponent"/>
+    </fileobject>
+    <fileobject name="CDKCapsule.java">
+        <attr name="class_dependency_Widget" stringvalue="CDKCapsule"/>
+    </fileobject>
+    <fileobject name="ComponentType.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ComponentType.ItemAdder;ComponentType.AllowedStatesDialogCloser;ComponentType.ItemRemover"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="ComponentType.AllowedStatesDialogCloser"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="ComponentType"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="ComponentType"/>
+        <attr name="class_dependency_javax.swing.event.ListSelectionListener" stringvalue="ComponentType.ValueReporter"/>
+    </fileobject>
+    <fileobject name="Configuration.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Configuration.ConfigCancel;Configuration.ConfigBNGLOutputBrowser;Configuration.ConfigVersionListener;Configuration.ConfigEngineBrowser;Configuration.ConfigCloser"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="Configuration.ConfigCloser"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Configuration"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="Configuration"/>
+    </fileobject>
+    <fileobject name="Edge.java">
+        <attr name="class_dependency_Widget" stringvalue="Edge"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Edge"/>
+    </fileobject>
+    <fileobject name="FlickrLabel.java">
+        <attr name="class_dependency_Widget" stringvalue="FlickrLabel"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="FlickrLabel.DialogCloser"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="FlickrLabel.KeyboardControl"/>
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="FlickrLabel.MouseHandler"/>
+        <attr name="class_dependency_java.awt.event.MouseMotionAdapter" stringvalue="FlickrLabel.MouseMotionHandler"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="FlickrLabel.DialogCloser"/>
+        <attr name="class_dependency_javax.swing.event.DocumentListener" stringvalue="FlickrLabel.TextFieldChangeListener"/>
+    </fileobject>
+    <fileobject name="Forward.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000017372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f7870740016466f7277617264416e64526576657273652e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c64657278"/>
+        <attr name="class_dependency_Operator" stringvalue="Forward"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Forward.RateDialogDone;Forward.ParameterChooserListener;Forward.RateDialogCancel"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="Forward.RateDialogDone;Forward.RateDialogCancel"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Forward"/>
+    </fileobject>
+    <fileobject name="ForwardAndReverse.java">
+        <attr name="class_dependency_Forward" stringvalue="ForwardAndReverse"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ForwardAndReverse.RateDialogDone;ForwardAndReverse.RateDialogCancel;ForwardAndReverse.ParameterChooserListener"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="ForwardAndReverse.RateDialogDone;ForwardAndReverse.RateDialogCancel"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="ForwardAndReverse"/>
+    </fileobject>
+    <fileobject name="Group.java">
+        <attr name="class_dependency_Operation" stringvalue="Group"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Group.LabelTypeDialogCloser"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="Group.LabelTypeDialogCloser"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Group"/>
+    </fileobject>
+    <fileobject name="LogicalOperator.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000037372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f78707400074f722e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c6465727371007e00027371007e0006000000507371007e00087371007e000b007371007e000e740008416e642e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000a556e696f6e2e6a61766171007e001278"/>
+    </fileobject>
+    <fileobject name="ModelParameters.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ModelParameters.ItemRemover;ModelParameters.DialogCloser;ModelParameters.ItemAdder"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="ModelParameters.DialogCloser"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="ModelParameters"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="ModelParameters"/>
+        <attr name="class_dependency_javax.swing.table.AbstractTableModel" stringvalue="ModelParameters.TableModel"/>
+    </fileobject>
+    <fileobject name="MoleculePalette.java">
+        <attr name="class_dependency_WidgetPalette" stringvalue="MoleculePalette"/>
+        <attr name="class_dependency_java.awt.dnd.DragGestureListener" stringvalue="MoleculePalette.MouseControl"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="MoleculePalette.KeyboardControl"/>
+        <attr name="class_dependency_javax.swing.event.MouseInputAdapter" stringvalue="MoleculePalette.MouseControl"/>
+    </fileobject>
+    <fileobject name="MoleculeType.java">
+        <attr name="class_dependency_BioContainer" stringvalue="MoleculeType"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="MoleculeType"/>
+    </fileobject>
+    <fileobject name="ObservablesPalette.java">
+        <attr name="class_dependency_WidgetPalette" stringvalue="ObservablesPalette"/>
+        <attr name="class_dependency_java.awt.dnd.DragGestureListener" stringvalue="ObservablesPalette.MouseControl"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="ObservablesPalette.KeyboardControl"/>
+        <attr name="class_dependency_javax.swing.event.MouseInputAdapter" stringvalue="ObservablesPalette.MouseControl"/>
+    </fileobject>
+    <fileobject name="Operator.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000027372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f7870740009506c75732e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c6465727371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000c466f72776172642e6a61766171007e001278"/>
+        <attr name="class_dependency_Widget" stringvalue="Operator"/>
+    </fileobject>
+    <fileobject name="Or.java">
+        <attr name="class_dependency_LogicalOperator" stringvalue="Or"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Or"/>
+    </fileobject>
+    <fileobject name="Pattern.java">
+        <attr name="class_dependency_BioGraph" stringvalue="Pattern"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Pattern"/>
+    </fileobject>
+    <fileobject name="Plus.java">
+        <attr name="class_dependency_Operator" stringvalue="Plus"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Plus"/>
+    </fileobject>
+    <fileobject name="Reaction.java">
+        <attr name="class_dependency_ReactionRule" stringvalue="Reaction"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Reaction"/>
+    </fileobject>
+    <fileobject name="ReactionRule.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000017372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f787074000d5265616374696f6e2e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c64657278"/>
+        <attr name="class_dependency_Operation" stringvalue="ReactionRule"/>
+    </fileobject>
+    <fileobject name="SelectionBox.java">
+        <attr name="class_dependency_Widget" stringvalue="SelectionBox"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="SelectionBox"/>
+    </fileobject>
+    <fileobject name="Species.java">
+        <attr name="class_dependency_BioGraph" stringvalue="Species"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Species.ConcentrationDialogCancel;Species.ConcentrationDialogDone;Species.ParameterChooserListener"/>
+        <attr name="class_dependency_java.awt.event.WindowAdapter" stringvalue="Species.ConcentrationDialogCancel;Species.ConcentrationDialogDone"/>
+    </fileobject>
+    <fileobject name="SpeciesPalette.java">
+        <attr name="class_dependency_WidgetPalette" stringvalue="SpeciesPalette"/>
+        <attr name="class_dependency_java.awt.dnd.DragGestureListener" stringvalue="SpeciesPalette.MouseControl"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="SpeciesPalette.KeyboardControl"/>
+        <attr name="class_dependency_javax.swing.event.MouseInputAdapter" stringvalue="SpeciesPalette.MouseControl"/>
+    </fileobject>
+    <fileobject name="State.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="State.SummaryPanelState;State.ModelParametersState;State;State.SimulationConfigState;State.WidgetPanelState"/>
+    </fileobject>
+    <fileobject name="Union.java">
+        <attr name="class_dependency_LogicalOperator" stringvalue="Union"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Union"/>
+    </fileobject>
+    <fileobject name="Widget.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000097372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f7870740009456467652e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c6465727371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000d42696f47726170682e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000d4f70657261746f722e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74001153656c656374696f6e426f782e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74001142696f436f6e7461696e65722e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000e4f7065726174696f6e2e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74000f43444b43617073756c652e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e74001142696f436f6d706f6e656e742e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e740010466c69636b724c6162656c2e6a61766171007e001278"/>
+        <attr name="class_dependency_java.awt.datatransfer.Transferable" stringvalue="Widget"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Widget"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="Widget"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="Widget"/>
+    </fileobject>
+    <fileobject name="WidgetPalette.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000037372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f78707400144d6f6c6563756c6550616c657474652e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c6465727371007e00027371007e0006000000507371007e00087371007e000b007371007e000e7400135370656369657350616c657474652e6a61766171007e00127371007e00027371007e0006000000507371007e00087371007e000b007371007e000e7400174f627365727661626c657350616c657474652e6a61766171007e001278"/>
+        <attr name="class_dependency_WidgetPanel" stringvalue="WidgetPalette"/>
+    </fileobject>
+    <fileobject name="WidgetPanel.java">
+        <attr name="EA-OpenIDE-Connection" serialvalue="aced0005737200146a6176612e7574696c2e4c696e6b65644c6973740c29535d4a60882203000078707704000000017372002a6f72672e6f70656e6964652e6c6f61646572732e436f6e6e656374696f6e537570706f72742450616972055f8af6f04a3bd80200024c00047479706574002b4c6f72672f6f70656e6964652f636f6f6b6965732f436f6e6e656374696f6e436f6f6b696524547970653b4c000576616c75657400124c6a6176612f6c616e672f4f626a6563743b78707372002e6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661436f6e6e656374696f6e732454797065a83dd01001306d7402000149000666696c746572787000000050737200436f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a617661446174614f626a6563742450657273697374656e74436f6e6e656374696f6e48616e646c65ba16f1d2dd4c1cb60200014c000e646174614e6f646548616e646c6574001f4c6f72672f6f70656e6964652f6e6f6465732f4e6f64652448616e646c653b7870737200296f72672e6f70656e6964652e6c6f61646572732e446174614e6f6465244f626a65637448616e646c655bd0f82e01811d2e0200025a0005636c6f6e654c00036f626a7400244c6f72672f6f70656e6964652f66696c6573797374656d732f46696c654f626a6563743b787000737200326f72672e6f70656e6964652e66696c6573797374656d732e416273747261637446696c654f626a656374245265706c616365896fa1bce4b5219f0200024c000866696c654e616d657400124c6a6176612f6c616e672f537472696e673b4c000666734e616d6571007e000f787074001257696467657450616c657474652e6a61766174005c6f72672e6e65746265616e732e6d6f64756c65732e7663732e616476616e6365642e436f6d6d616e644c696e6556637346696c6553797374656d202f686f6d652f6d6174746865772f73616e64626f782f52756c654275696c64657278"/>
+        <attr name="class_dependency_java.awt.dnd.DropTargetListener" stringvalue="WidgetPanel"/>
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="WidgetPanel"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="WidgetPanel.KeyboardControl"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="WidgetPanel"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="WidgetPanel"/>
+        <attr name="class_dependency_javax.swing.event.ChangeListener" stringvalue="WidgetPanel"/>
+        <attr name="class_dependency_javax.swing.event.MouseInputAdapter" stringvalue="WidgetPanel.MouseControl"/>
+    </fileobject>
+    <fileobject name="WidgetTransferHandler.java">
+        <attr name="class_dependency_java.awt.datatransfer.Transferable" stringvalue="WidgetTransferHandler"/>
+        <attr name="class_dependency_java.awt.dnd.DropTargetListener" stringvalue="WidgetTransferHandler.DropHandler"/>
+        <attr name="class_dependency_java.io.Serializable" stringvalue="WidgetTransferHandler.DropHandler"/>
+        <attr name="class_dependency_javax.swing.TransferHandler" stringvalue="WidgetTransferHandler"/>
+    </fileobject>
+</attributes>

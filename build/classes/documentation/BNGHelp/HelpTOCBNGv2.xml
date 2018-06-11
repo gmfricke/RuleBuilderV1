@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+         "../dtd/toc_2_0.dtd">
+<toc version="2.0" categoryclosedimage="orangepointrighttriangle" categoryopenimage="orangepointdowntriangle">
+
+<tocitem text="Welcome to BioNetGen" target="introduction.introduction" image="reddiamond">
+	<tocitem text="Features" target="introduction.features" image="reddiamond">
+	</tocitem>
+	<tocitem text="Model Specification" target="introduction.modelspecification" image="reddiamond">
+	</tocitem>
+	<tocitem text="Use Scenarios" target="introduction.usagescenarios" image="reddiamond">
+	</tocitem>
+</tocitem>
+
+<tocitem text="Modeling" target="modeling.modeling" image="reddiamond">
+	<tocitem text="Getting Started" target="modeling.gettingstarted.gettingstarted" image="reddiamond">
+		<tocitem text="BioNetGen Use Stages" target="modeling.gettingstarted.bionetgenusestages" image="reddiamond"/>
+		<tocitem text="creating molecule types" target="modeling.gettingstarted.creatingmoleculetypes" image="reddiamond"/>
+		<tocitem text="creating reaction rules" target="modeling.gettingstarted.creatingreactionrules" image="reddiamond"/>
+		<tocitem text="specifying observables" target="modeling.gettingstarted.specifyingobservables" image="reddiamond"/>
+		<tocitem text="specifying species" target="modeling.gettingstarted.specifyingspecies" image="reddiamond"/>
+		<tocitem text="simulation settings" target="modeling.gettingstarted.setsimulationparams" image="reddiamond"/>
+		<tocitem text="saving a BNGL file" target="modeling.gettingstarted.savebnglfile" image="reddiamond"/>
+	</tocitem>
+	<tocitem text="Guided Example" target="modeling.guidedexamples.toyexample" image="reddiamond">
+		<tocitem text="Exemplar Model" target="modeling.guidedexamples.toymodelstages" image="reddiamond"/>
+	</tocitem>
+
+	<tocitem text="Working with Input Files" target="modeling.workingwithbngfiles.inputfileoptions" image="reddiamond">
+	</tocitem>
+
+	<tocitem text="Output Options" target="modeling.outputoptions.outputfileoptions" image="reddiamond">
+	</tocitem>
+
+	<tocitem text="RuleBuilder Interface" target="modeling.softwarecomponents.softwarecomponents" image="reddiamond">
+		<tocitem text="editor window" target="modeling.softwarecomponents.editorwindow" image="reddiamond"/>
+		<tocitem text="editor window modes" target="modeling.softwarecomponents.editorwindowmodes" image="reddiamond"/>
+		<tocitem text="palette windows" target="modeling.softwarecomponents.palettewindows" image="reddiamond"/>
+		<tocitem text="summary windows" target="modeling.softwarecomponents.summarywindows" image="reddiamond"/>
+		<tocitem text="molecule building modes" target="modeling.softwarecomponents.moleculebuildingbuttons" image="reddiamond"/>
+		<tocitem text="reaction rule building modes" target="modeling.softwarecomponents.reactionrulebuildingbuttons" image="reddiamond"/>
+		<tocitem text="workspace edit modes" target="modeling.softwarecomponents.editbuttons" image="reddiamond"/>
+		<tocitem text="zoom controls" target="modeling.softwarecomponents.zoomcontrols" image="reddiamond"/>
+	</tocitem>
+</tocitem>
+
+<tocitem text="BioNetGen Terminology" target="terminology.terminology" image="reddiamond"/>
+
+<tocitem text="About BioNetGen" target="aboutbionetgen.aboutbionetgen" image="reddiamond">
+	<tocitem text="Authors" target="aboutbionetgen.authors" image="reddiamond">
+	</tocitem>
+	<tocitem text="Bug Reports" target="aboutbionetgen.bugreports.bugreports" image="reddiamond">
+	</tocitem>
+	<tocitem text="Release and License Information" target="aboutbionetgen.release.release" image="reddiamond">
+	</tocitem>
+	<tocitem text="References" target="aboutbionetgen.references.references" image="reddiamond">
+	</tocitem>
+</tocitem>
+
+</toc>

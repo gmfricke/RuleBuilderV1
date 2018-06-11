@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<head>
+	<link rel="stylesheet" href="../../basestyle.css" type="text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+Creating Reaction Rules
+</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1> Creating Reaction Rules </h1>
+
+<br>
+
+<p>
+Reaction rules are the generators of <a href="../../Terminology/species.html" style="text-decoration:none"> species </a> and 
+reactions in a BioNetGen model.  Each rule has four basic elements:  reactant patterns, an arrow, product patterns, and a 
+<a href="../../Terminology/reactionrate.html" style="text-decoration:none"> rate law</a>.  Reactant patterns are used to select 
+a set of reactant species to which the rule will be applied.  The arrow indicates whether the rule is applied in the 
+<a href="../SoftwareComponents/addforwardproductionoperatormode.html" style="text-decoration:none"> forward direction </a> only or in the 
+<a href="../SoftwareComponents/addforwardreverseproductionoperatormode.html" style="text-decoration:none"> forward and reverse directions</a>.  
+The product patterns define how the selected species are transformed by the rule and also act as the species
+selectors when the rule is applied in reverse if the reaction has a reverse direction.  The default rate law is the
+elementary rate law, which gives the rate of a reaction as the product of a constant factor, the rate constant, and the 
+reactant concentrations.
+</p>
+
+<br>
+
+<p> 
+To create a reaction rule, species and <a href="../../Terminology/molecule.html" style="text-decoration:none"> molecules </a> 
+are placed as needed on both sides of a reaction rate on the <a href="./editorwindow.html" style="text-decoration:none"> Editor Window</a>.  
+Although there is no required order, simulation will proceed correctly only when the participating species and molecules have separately 
+been registered within the <a href="../SoftwareComponents/moleculepalette.html" style="text-decoration:none"> Molecule Template Palette </a> 
+and the <a href="../SoftwareComponents/speciespalette.html" style="text-decoration:none"> Species Palette</a>.  Once the reaction rule 
+depiction is complete within the Editor Window it should be dragged and dropped into the 
+<a href="../SoftwareComponents/reactionrulepalette.html" style="text-decoration:none"> Reaction Rule Palette</a>.    
+</p>
+
+</body>
+</HTML>

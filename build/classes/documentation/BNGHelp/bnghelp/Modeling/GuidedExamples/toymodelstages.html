@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<head>
+	<link rel="stylesheet" href="../../basestyle.css" type="text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+Exemplar Model Set Up Stages
+</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1> Exemplar Model Set Up Stages </h1>
+
+<br>
+
+<p>
+Although there is no forced order, executing these steps as prescribed is generally the most straightforward method:
+</p>
+
+<br>
+
+<ul>
+<li> <a href="./createmoleculetemplates.html" style="text-decoration:none"> Create molecule templates and register as types. </a> </li>
+	<ul>
+	<li> Mono-component, no set state molecule pattern, </li>
+	<li> Tri-component, no set states molecule pattern, </li>
+	<li> Bi-component, no set states molecule pattern, </li>
+	<li> Bi-component, with one set state molecule pattern. </li>
+	</ul>
+<li> <a href="./createspecies.html" style="text-decoration:none"> Create species. </a> </li>
+	<ul>
+	<li> L(r), monovalent ligand, </li>
+	<li> R(l,r,a), monovalent receptor, </li>
+	<li> A(r,k), bivalent adapter protein, </li>
+	<li> K(a,Y~U), kinase. </li>
+	</ul>
+<li> <a href="./createreactionrules.html" style="text-decoration:none"> Set up reactions rules. </a> </li>
+	<ul>
+	<li> L(r) + R(l,r) <-> L(r!1).R(l!1,r); forward rate of kpL, backward rate of kmL, </li>
+	<li> A(r) + R(a) <-> A(r!1).R(a!1), forward rate of kpA, backward rate of kmA, </li>
+	<li> A(k) + K(a) <-> A(k!1).K(a!1), forward rate of kpK, backward rate of KmK, </li>
+	<li> R(a!1).A(!1,k!2).K(a!2,Y~P) -> R(a!1).A(r!1,k!2).K(a!2,Y~U), forward rate of dM, </li>
+	<li> K(a,Y~P) -> K(a,Y~U), forward rate of dC. </li>
+	</ul>
+<li> Specifiy observables. </li>
+	<ul>
+	<li> Molecules L-tot, L, </li>
+	<li> Molecules A-tot, A, </li>
+	<li> Molecules K-tot, K, </li>
+	<li> Molecules R-tot, R, </li>
+	<li> Molecule Rec-A, R(a!1).A(r!1), </li>
+	<li> Molecule Rec-K, R(a!1).A(r!1,k!2).K(a!2). </li>
+	</ul>
+<li> Set simulation parameters. </li>
+</ul>
+
+</body>
+</HTML>

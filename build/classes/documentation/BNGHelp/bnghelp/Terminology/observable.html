@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<head>
+	<link rel="stylesheet" href="../basestyle.css" type="text/css">
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+Observable
+</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1> Observable </h1>
+
+<br>
+
+<p>
+An observable is either a <a href="./molecule.html" style="text-decoration:none"> molecule</a>,
+<a href="./species.html" style="text-decoration:none"> species</a> or simply a 
+<a href="./pattern.html" style="text-decoration:none"> pattern</a>.  Observables correspond to 
+quantities that would be measured in typical biological experiments.  Examples include observed 
+phosphorylation of a protein and the amount of a protein that is co-complexed with another protein.
+</p>
+
+<br>
+
+<p>
+By design, and by virtue of allowing patterns, observables may delibrately not be fully specified:
+components of defined molecules may be missing, state labels of multi-state components may be 
+absent indicating that they can take on any value, edge names may be given with 
+<a href="./wildcard.html" style="text-decoration:none"> wildcards </a> to specify various connectivity,
+and the molecules in a complex need not be connected.  This incompleteness of specification
+allows patterns to <a href="./match.html" style="text-decoration:none"> match </a> range of species.
+The values of observables over a simulation generated timecourse are written to output files. 
+</p>
+
+</body>
+</HTML>
